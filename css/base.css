@@ -1,0 +1,77 @@
+/* Main styles START */
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,*::after,*::before{
+    box-sizing: inherit;
+}
+
+body{
+    min-width: 320px;
+    height: 100%;
+    overflow-x: hidden;
+
+    font-family: 'Rubik-Regular', 'Arial';
+    font-weight: 400;
+    font-style: 16px;
+    line-height: 18px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+/* Main styles END */
+
+/* Container START */
+@media (min-width: 1440px) {
+    .container{
+        max-width: 1170px;
+    }
+}
+/* Container END */
+
+/* Titles START */
+
+.title-main{
+    font-family: 'Mulish-Bold';
+
+    color: var(--primary-color);
+
+    line-height: 2.8rem;
+    text-transform: uppercase;
+}
+
+@media (min-width: 1200px) {
+    .title-main{
+        font-size: 2.25rem;
+    }
+}
+
+/* Titles END */
+
+/* Images styles START */
+.img-box{
+    width: 100%;
+    padding-top: 100%;
+    overflow: hidden;
+    position: relative;
+    display: block;
+}
+
+.img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+/* Images styles END */
