@@ -3,43 +3,43 @@
     font-family: 'Rubik-Regular';
     font-weight: 400;
     font-style: normal;
-    src:url('/fonts/Rubik-Regular.ttf') format('ttf'),
-        url('/fonts/Rubik-Regular.woff') format('woff'),
-        url('/fonts/Rubik-Regular.woff2') format('woff2');
+    src:url('../fonts/Rubik-Regular.ttf') format('ttf'),
+        url('../fonts/Rubik-Regular.woff') format('woff'),
+        url('../fonts/Rubik-Regular.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Rubik-Medium';
     font-weight: 500;
     font-style: normal;
-    src:url('/fonts/Rubik-Medium.ttf') format('ttf'),
-        url('/fonts/Rubik-Medium.woff') format('woff'),
-        url('/fonts/Rubik-Medium.woff2') format('woff2');
+    src:url('../fonts/Rubik-Medium.ttf') format('ttf'),
+        url('../fonts/Rubik-Medium.woff') format('woff'),
+        url('../fonts/Rubik-Medium.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Mulish-Regular';
     font-weight: 400;
     font-style: normal;
-    src:url('/fonts/Mulish-Regular.ttf') format('ttf'),
-        url('/fonts/Mulish-Regular.woff') format('woff'),
-        url('/fonts/Mulish-Regular.woff2') format('woff2');
+    src:url('../fonts/Mulish-Regular.ttf') format('ttf'),
+        url('../fonts/Mulish-Regular.woff') format('woff'),
+        url('../fonts/Mulish-Regular.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Mulish-SemiBold';
     font-weight: 600;
     font-style: normal;
-    src:url('/fonts/Mulish-SemiBold.ttf') format('ttf'),
-        url('/fonts/Mulish-SemiBold.woff') format('woff'),
-        url('/fonts/Mulish-SemiBold.woff2') format('woff2');
+    src:url('../fonts/Mulish-SemiBold.ttf') format('ttf'),
+        url('../fonts/Mulish-SemiBold.woff') format('woff'),
+        url('../fonts/Mulish-SemiBold.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Mulish-Bold';
     font-weight: 700;
     font-style: normal;
-    src:url('/fonts/Mulish-Bold.ttf') format('ttf'),
-        url('/fonts/Mulish-Bold.woff') format('woff'),
-        url('/fonts/Mulish-Bold.woff2') format('woff2');
+    src:url('../fonts/Mulish-Bold.ttf') format('ttf'),
+        url('../fonts/Mulish-Bold.woff') format('woff'),
+        url('../fonts/Mulish-Bold.woff2') format('woff2');
 }
